@@ -1,0 +1,29 @@
+# Varda Space Industries
+
+> Varda is a microgravity-enabled life sciences company that processes materials in orbit and returns them to Earth. Its W-Series spacecraft are free-flying orbital production satellites with reentry capability, used for in-orbit pharmaceutical processing and as a hypersonic reentry testbed for government flight testing.
+
+Varda Space Industries publishes no public API, developer documentation, or
+machine-readable specifications as of 2026-07-21. This file is generated from
+the API Evangelist catalog profile for discovery purposes.
+
+## Company
+
+- [Varda Space Industries](https://www.varda.com): Company website
+- [Platform (W-Series)](https://www.varda.com/platform): Orbital material production and reentry platform
+- [Biopharma](https://www.varda.com/biopharma): Microgravity pharmaceutical processing
+- [Government](https://www.varda.com/government): Hypersonic testbed for reentry and orbital flight testing
+- [Microgravity Research](https://www.varda.com/microgravity): Microgravity research solutions
+- [About Varda](https://www.varda.com/company): Mission and company story
+- [Media Center](https://www.varda.com/media): News and announcements
+- [Careers](https://www.varda.com/careers): Open roles
+
+## Legal
+
+- [Privacy Policy](https://www.varda.com/privacy)
+- [Legal / Content Attributions](https://www.varda.com/legal)
+
+## Contact
+
+- info@varda.com (general), testbed@varda.com (government), pharma@varda.com (biopharma), press@varda.com (media)
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://www.varda.com -->
