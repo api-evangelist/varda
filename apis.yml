@@ -8,6 +8,17 @@ description: 'Varda Space Industries is a microgravity-enabled life sciences com
   General Catalyst, Khosla Ventures, and Lux Capital, Varda publishes no public API
   or developer surface as of July 2026.'
 url: https://raw.githubusercontent.com/api-evangelist/varda/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
